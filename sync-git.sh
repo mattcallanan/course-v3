@@ -22,11 +22,6 @@ debug "git merge upstream/master"
 git merge upstream/master
 debug ======================================
 
-#debug ======================================
-#debug "git add ."
-#git add .
-#debug ======================================
-
 debug ======================================
 debug "git-sync"
 git-sync
